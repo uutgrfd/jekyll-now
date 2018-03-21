@@ -17,11 +17,45 @@ html {
   font-size: 100%;
 }
 
+
+
+
+
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+background-image :url("https://i.imgur.com/zFnNdez.png");
+font: 18px/1.4 $helvetica;
+color: #99ccff;
 }
+
+
+
+
+table, th, td {
+ color:#99ccff;
+padding: 5px;
+ font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+border: 3px solid #f00000;
+width: 100%;
+	
+}
+
+
+
+.container {
+ background-image: url("http://img06.deviantart.net/dbe9/i/2012/159/f/3/rainbow_bullet_reborn_by_adamkh99-d52ptnx.png");
+margin: 0 auto;
+ max-width: 800px;
+padding: 0 15px;
+ width: 100%;
+border-width: 10px;
+border-color: #ff1c2e;
+ border-radius: 25px;
+ border-style: solid ;
+ border-image-repeat: repeat;
+}
+
+
+
 
 .container {
   margin: 0 auto;
