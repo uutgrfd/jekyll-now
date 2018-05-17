@@ -36,14 +36,14 @@ padding: 5px;
  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 border: 3px solid #f00000;
 width: 100%;
-	background-color:#cc99ff;
+	background-color:rgb(255, 204, 204,0.3);
 	
 }
 
 
 
 .container {
-  background-image: url("http://img06.deviantart.net/dbe9/i/2012/159/f/3/rainbow_bullet_reborn_by_adamkh99-d52ptnx.png");;
+  linear-gradient(blue,violet,purple,blue);
 margin: 0 auto;
  max-width: 800px;
 padding: 0 15px;
