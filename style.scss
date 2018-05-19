@@ -43,7 +43,9 @@ width: 100%;
 
 
 .container {
-rgb(153, 0, 204,0.4);
+#grad {
+  background: linear-gradient(#0033cc ,#8f246b);
+}
 margin: 0 auto;
  max-width: 800px;
 padding: 0 15px;
